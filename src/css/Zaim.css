@@ -1,0 +1,31 @@
+.zaim a{
+    color:black;
+    text-decoration: none;
+}
+
+.zaim button{
+    background-color: #bcedb7!important;
+    color:#028f58!important;
+    font-weight: bold!important;
+    padding:20px;
+}
+
+.zaim h2{
+    margin:20px 20px;
+    padding:20px 20px;
+    font-family: cursive;
+}
+
+.zaim .zaim-list{
+    margin:30px 30px
+}
+
+.zaim .zaim-list-item{
+    border:3px solid #bcedb7;
+    padding:30px;
+    border-radius: 30px;
+}
+
+.zaim .zaim-list-item:hover{
+    background-color: #bcedb7;
+}
